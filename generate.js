@@ -4,7 +4,7 @@ module.exports = () => {
 
     return {
         contacts: _.times(100, (index) => {
-            return {
+            let contact = {
                 "id": index,
                 "uuid": faker.random.uuid(),
                 "firstName": faker.name.firstName(),
@@ -17,6 +17,7 @@ module.exports = () => {
                 },
                 "isFavorite": faker.random.boolean()
             }
+            return JSON.parse(JSON.stringify(contact))
         })
     }
 }
