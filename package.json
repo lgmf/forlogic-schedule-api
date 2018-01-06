@@ -4,7 +4,8 @@
   "description": "Fake API para treinamento de estagiários do Grupo Forlogic.",
   "main": "index.js",
   "dependencies": {
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {},
   "scripts": {
