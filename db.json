@@ -4,13 +4,41 @@
       "id": 1,
       "name": "Luiz",
       "email": "luiz.guilherme@forlogic.net",
+      "gender": "m",
+      "info":{        
+        "company": "qualiex"
+      },
       "isFavorite": "true"
     },
     {
       "id": 2,
       "name": "Marcos",
       "email": "marcos@forlogic.net",
+      "gender": "m",
+      "info":{
+        "company": "metrologia"
+      },
       "isFavorite": "false"
+    },
+    {
+      "id": 3,
+      "name": "Breno",
+      "email": "Breno@forlogic.net",      
+      "gender": "m",
+      "info":{
+        "area": "mobile"
+      },
+      "isFavorite": "false"
+    },
+    {
+      "id": 4,
+      "name": "Jéssica",
+      "email": "jessica@forlogic.net",
+      "gender": "f",
+      "info":{
+        "company": "qualiex"
+      },
+      "isFavorite": "true"
     }
   ]
 }
