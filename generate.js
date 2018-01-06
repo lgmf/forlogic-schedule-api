@@ -10,6 +10,7 @@ module.exports = () => {
                 "firstName": faker.name.firstName(),
                 "lastName": faker.name.lastName(),
                 "email": faker.internet.email(), 
+                "avatar": faker.internet.avatar(),
                 "gender": (index % 2 == 0) ? "m" : "f",
                 "info": {
                     "company": faker.company.companyName()
