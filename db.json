@@ -1,13 +1,13 @@
 {
   "contacts": [
     {
-      "identifier": 1,
+      "id": 1,
       "name": "Luiz",
       "email": "luiz.guilherme@forlogic.net",
       "isFavorite": "true"
     },
     {
-      "identifier": 2,
+      "id": 2,
       "name": "Marcos",
       "email": "marcos@forlogic.net",
       "isFavorite": "false"
