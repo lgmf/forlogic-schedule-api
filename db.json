@@ -1,6 +1,98 @@
 {
+  "amauri": {
     "contacts": [
-      { "id": 1, "name": "Luiz", "email":"luiz.guilherme@forlogic.net", "isFavorite":"true" },
-      { "id": 2, "name": "Marcos", "email":"marcos@forlogic.net", "isFavorite":"false" }
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
+    ]
+  },
+  "alexandre": {
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
+    ]
+  },
+  "carlos": {
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
+    ]
+  },
+  "kassia": {
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
+    ]
+  },
+  "rodrigo": {
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
+    ]
+  },
+  "tiago": {
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Luiz",
+        "email": "luiz.guilherme@forlogic.net",
+        "isFavorite": "true"
+      },
+      {
+        "id": 2,
+        "name": "Marcos",
+        "email": "marcos@forlogic.net",
+        "isFavorite": "false"
+      }
     ]
   }
+}
