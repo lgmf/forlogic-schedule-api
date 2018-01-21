@@ -2,7 +2,7 @@
 Fake API para treinamento de estagiários do Grupo Forlogic.
 
 <h1>Endereço da API</h1>
-https://my-json-server.typicode.com/lgmf/forlogic-schedule-api
+https://my-json-server.typicode.com/{SEU_USUÁRIO}/forlogic-schedule-api
 
 <h1>Documentação:</h1>
 
