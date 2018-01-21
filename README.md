@@ -20,8 +20,8 @@ https://my-json-server.typicode.com/lgmf/forlogic-schedule-api
 
 <h3>Query Params:</h3>
 <ul>
-<li>GET    /contacts?name={NOME_DO_CONTATO}</li>
-<li>GET    /contacts?name={NOME_DO_CONTATO1}&name={NOME_DO_CONTATO2}</li>
+<li>GET    /contacts?firstName={NOME_DO_CONTATO}</li>
+<li>GET    /contacts?firstName={NOME_DO_CONTATO1}&firstName={NOME_DO_CONTATO2}</li>
 <li>GET    /contacts?info.company=qualiex</li>
 </ul>
 
